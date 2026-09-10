@@ -3,7 +3,6 @@
 A Power BI dashboard for analyzing global sales data across countries, brands, categories, and sales channels. Built with focus on internal profit tracking, market benchmarking, and data quality monitoring.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
 ---
 

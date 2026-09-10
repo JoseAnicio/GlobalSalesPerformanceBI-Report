@@ -12,12 +12,12 @@ A Power BI dashboard for analyzing global sales data across countries, brands, c
 
 The main page consolidates the most relevant KPIs at a glance:
 
-- **Top Selling Country** — UK leads with 134 products sold
-- **Top Selling Category** — Electronics (203 units)
-- **Top Selling Brand** — Aura (83 units)
+- **Top Selling Country** — UK leads with 128 products sold
+- **Top Selling Category** — Electronics (196 units)
+- **Top Selling Brand** — Aura (81 units)
 - **Most Valuable Product** — GlowSerum 30ml
 - **Less Valuable Product** — RoboBuilder Jr
-- **Internal vs. Market Average Profit** — $7.66 Mil internal / $8.26 Mil market benchmark
+- **Internal vs. Market Average Profit** — $5.56 Mil internal / $8.6 Mil market benchmark
 
 ---
 
@@ -72,8 +72,8 @@ All visuals update dynamically when filters are applied.
 
 Sales records are flagged as **NORMAL** or **OUTLIER** — allowing analysis of clean vs. anomalous transactions side by side.
 
-- Normal records: 720
-- Outlier records: 346
+- Normal records: 78
+- Outlier records: 50
 
 ---
 
